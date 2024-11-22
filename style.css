@@ -1,0 +1,33 @@
+* {
+
+}
+
+body {
+	background-image: url(https://i.pinimg.com/736x/20/96/3f/20963fcb8deed91cd92bf446ebe1d284.jpg);
+	color: floralwhite;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(92, 64, 51);
+}
+
+.container {
+	background-color: rgb(196, 164, 132);
+}
+
+.footer {
+	background-color: #5C4033;
+	color: floralwhite;
+	text-align: center;
+}
+
+table tr:hover {
+	background-color: #5C4033;
+}
+
+table th, table td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: left;
+}
